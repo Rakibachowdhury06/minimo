@@ -10,13 +10,11 @@ header{
 	padding:15px 0;
 }
 .container{
-	/*border:1px solid red;*/
 	width:90%;
 	margin:0 auto;
 	overflow:hidden;
 }
 .logo{
-	/*border:1px solid red;*/
 	width:13%;
 	float:left;
 	margin-top:7px;
@@ -25,7 +23,6 @@ header{
 	width:100%;
 }
 .menu{
-	/*border:1px solid red;*/
 	width:70%;
 	float:right;
 }
@@ -71,7 +68,6 @@ header{
 	width:80%;
 	margin:0 auto;
 	overflow: hidden;
-	/*border:1px solid red;*/
 }
 .p_content{}
 .light{
@@ -107,7 +103,6 @@ header{
 	width:45%;
 	float:left;
 	margin-bottom: 30px;
-	/*border:1px solid red;*/
 }
 
 .single:nth-child(even){
@@ -214,14 +209,12 @@ footer{
 	padding: 40px 0;
 }
 .terms{
-	/*border:1px solid red;*/
 	width: 25%;
 	float: left;
-
 }
 .terms ul{
 	width:100%;
-	}
+}
 .terms ul li{
 	list-style:none;
 }
@@ -233,22 +226,20 @@ footer{
 	margin-left:16px;
 }
 
-
 .social{
-	/*border:1px solid red;*/
 	width: 20%;
 	float:right;
 }
 .social ul{
 	width:100%;
-	float:left;
 }
 .social ul li{
+	font-weight:600;
+	color:#000000;
 	list-style:none;
+	float:left;
 }
 .social ul li a{
-	font-weight:700;
-	color:#000000;
 	text-decoration: none;
 	float: left;
 	margin-left:16px;
